@@ -1,7 +1,9 @@
-import regresion_normal
+import numpy as np
+from regresion_normal import normal as regnormal
+#from sklearn import linear_model
 
 def main():
-    pass
+    regnormal()
 
 if __name__ == "__main__":
     main()
