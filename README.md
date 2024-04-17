@@ -2,10 +2,10 @@
 
 Incluye:
 
-1.- Regresión lineal usando Ecuación normal =
-2.- Regresión lineal simple con gradiente descendente
-3.- Regresión logística con gradiente descendente
-4.- Regresión lineal múltiple (método de mínimos cuadrados)
-5.- ADALINE (Seguir el ejemplo del libro)
+- Regresión lineal usando Ecuación normal
+- Regresión lineal simple con gradiente descendente
+- Regresión logística con gradiente descendente
+- Regresión lineal múltiple (método de mínimos cuadrados)
+- ADALINE 
 
 
