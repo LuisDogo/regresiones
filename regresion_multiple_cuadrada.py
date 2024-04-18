@@ -12,7 +12,7 @@ def regresion_multiple(X, b):
     for column in range(m):
         sigma0[column] = X[:, column].sum()
     print(sigma0)
-    sigma1 = np.insert(sigma0, 0, 1)
+    sigma1 = np.insert(sigma0, 0, 1) # término constante
     A = np.outer(sigma1,sigma1)
     A[0,0] = m
     return np.dot(A,b)

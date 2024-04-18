@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from regresion_normal import normal as regnormal
-#from gradiente import reg_gradiente as reggrad
 from regresion_multiple_cuadrada import regresion_multiple as regmul
 
 
