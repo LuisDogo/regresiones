@@ -40,7 +40,7 @@ def reg_gradiente(x,y,l: float = 0.0001,epochs: int = 1000):
     return m,c
 
 #Cargar datos
-data = pd.read_csv('Salary_Data.csv')
+data = pd.read_csv('data/Salary_Data.csv')
 x = data['YearsExperience']
 y = data['Salary']
 
